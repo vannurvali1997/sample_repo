@@ -8,4 +8,6 @@ this is a sixth line
 
 adding this line as fourth line 
 
-adding the fiveth line 
+adding the fiveth line
+
+adding a new line to see the --pretty command 
