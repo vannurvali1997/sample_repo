@@ -1,3 +1,6 @@
 this is the second file in this repo
 
 this is the third line to check the commit command using the -a -m 
+
+
+this is the line to check the git reset
